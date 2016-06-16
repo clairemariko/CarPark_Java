@@ -8,9 +8,7 @@ public class Bus extends Transport{
 	
 	}
 	
-	public String toString(){
-		return "Bus: {Name: "+name+", Make: "+make+", Passengers: "+passengers+"}";
-	}
+	
 
 }
 
